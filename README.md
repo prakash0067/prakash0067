@@ -14,6 +14,7 @@
 
 - **Languages**: C, C++, Java, Python, PHP, JavaScript, SQL
 - **Web Development**: HTML, CSS, PHP, MySQL, Apache (XAMPP)
+- **App Development**: Android (Java, XML - learning phase)
 - **Tools & Platforms**: Git, GitHub, XAMPP, Oracle DB, MS Word
 - **Frameworks**: Swing, AWT (Java GUI), Bootstrap
 - **Cloud & OS**: Basics of Cloud Computing, Linux Commands & Shell Scripting
@@ -30,11 +31,14 @@ A college-level web system to manage lost library books:
 - Book unlocking using receipt numbers
 - Export monthly/yearly reports as Excel/PDF
 
-### 📖 LMS Web Project
-A Learning Management System to manage assignments and student progress using PHP and MySQL.
-
-### 🏥 Zepto-Style Medical Emergency Service (In Progress)
-An idea to deliver emergency healthcare like “Doctor on a Bike,” inspired by rapid delivery apps.
+### 🖥️ LMS Web Project (Learning Management System)
+A comprehensive online platform to manage academic workflows:
+- 📚 Teachers can upload study materials and assignments  
+- 🧑‍🎓 Students can access materials, submit assignments with deadline tracking  
+- 📝 **Quiz module** to assess student understanding with instant grading  
+- 🧑‍💻 **In-built compiler** to run Java, PHP, and Python code online  
+- 📹 **Online class module** to schedule and conduct live virtual sessions  
+- 🛠 Admin dashboard to manage users, track performance, and generate reports
 
 ---
 
